@@ -6,6 +6,3 @@ If you have an existing Tomcat 9 application, you can use the [Tomcat Jakarta EE
 
 ## Deploy to App Service
 
-ToDo
-
-This is sample cronjob trigger
