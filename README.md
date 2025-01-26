@@ -5,4 +5,4 @@ Tomcat 10.0.x is the first Tomcat release to make the jump from Java EE to Jakar
 If you have an existing Tomcat 9 application, you can use the [Tomcat Jakarta EE Migration Tool](https://github.com/apache/tomcat-jakartaee-migration) (under development) to migrate your source code or archive files from Java EE APIs to Jakarta EE APIs for Tomcat 10. For more information, please see the official [Tomcat 10 migration guide](https://tomcat.apache.org/migration-10.html) from the Apache Foundation.
 
 ## Deploy to App Service
-hello this is sample trigger
+
